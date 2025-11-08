@@ -1,0 +1,1 @@
+VM1 :  lab-2105cf46-fd70-4e4b-8ece-4494323c5240.australiaeast.cloudapp.azure.com:7037 (Teams API)VM2 : lab-95a11ac6-8103-422e-af7e-4a8532f40144.australiaeast.cloudapp.azure.com:7057 (Timing API)VM3 : http://lab-d00a6b41-7f81-4587-a3ab-fa25e5f6d9cf.australiaeast.cloudapp.azure.com:7006/races/5 (Frontend)
